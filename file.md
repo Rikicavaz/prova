@@ -12,3 +12,5 @@
 * Mouse
 
 *Elettronica Padovana*
+
+[Il mio link](https://www.example.com){:target="_blank"}
