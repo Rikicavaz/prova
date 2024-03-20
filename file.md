@@ -14,3 +14,5 @@
 *Elettronica Padovana*
 
 [Il mio link](https://www.example.com){:target="_blank"}
+
+<a href="https://www.example.com" target="_blank">Il mio link</a>
