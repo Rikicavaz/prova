@@ -15,4 +15,4 @@
 
 [Il mio link](https://www.example.com){:target="_blank"}
 
-<a href="https://www.example.com" target="_blank">Il mio link</a>
+<a title="https://www.example.com" role="link" target="_blank" rel="noopener noreferrer nofollow" href="https://www.example.com">Il mio link</a>
